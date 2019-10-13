@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Base de datos pro</string>
+    <string name="txt_id">ID</string>
+    <string name="txt_usuario">Usuario</string>
+    <string name="txt_email">Email</string>
+    <string name="txt_numero">Telefono</string>
+    <string name="txt_fecha">2019-12-31</string>
+    <string name="btn_nuevo">Nuevo elemento</string>
+    <string name="btn_registrar">Registrar</string>
+    <string name="btn_editar">Editar</string>
+    <string name="btn_eliminar">Eliminar</string>
+    <string name="btn_buscar">Buscar</string>
+    <string name="btn_regresar">Regresar</string>
+</resources>
